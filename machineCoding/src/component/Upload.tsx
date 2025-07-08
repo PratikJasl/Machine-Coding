@@ -1,3 +1,4 @@
+//Component to handle file upload and display expected schema for an Excel file
 function Upload(){
     return(
         <section id="upload" className="h-full w-full mt-30">
